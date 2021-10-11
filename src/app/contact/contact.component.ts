@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+// @ts-ignore
+import iaka from "../_files/countries.json";
+
 
 @Component({
   selector: 'app-contact',
@@ -7,6 +10,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ContactComponent implements OnInit {
 
+  public innaList:{name:string, code:string}[] = iaka;
   constructor() { }
 
   ngOnInit(): void {
