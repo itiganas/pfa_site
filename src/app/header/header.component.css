@@ -1,0 +1,10 @@
+.first-bar {
+  background-color: darkgrey;
+  width: auto;
+  height: auto;
+}
+
+.navbar-buttons{
+  text-align: left;
+  margin-left: 120px;
+}

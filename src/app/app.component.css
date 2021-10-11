@@ -1,0 +1,20 @@
+
+
+.navbar{
+  background-color: whitesmoke;
+  font-family: Didot;
+
+}
+
+.pfa-title{
+  margin-left: 130px;
+  font-size: x-large;
+}
+
+.ul .li{
+  display: inline;
+  padding: 50px;
+  font-size: large;
+}
+
+
