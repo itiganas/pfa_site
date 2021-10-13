@@ -1,10 +1,12 @@
-.first-bar {
+.first-bar{
   background-color: darkgrey;
-  width: auto;
-  height: auto;
+  top: 0;
+  width: 100%;
 }
 
 .navbar-buttons{
   text-align: left;
   margin-left: 120px;
 }
+
+
