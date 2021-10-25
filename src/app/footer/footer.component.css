@@ -1,10 +1,15 @@
+.container-foot{
+  position: relative;
+}
+
 .footer{
   background-color: gray;
-  height: 80px;
+  height: 50px;
   font-family: Didot;
   text-align: center;
-  padding-top: 30px;
-  position: absolute;
+  padding-top: 10px;
+  position: relative;
   bottom: 0;
   width: 100%;
+  clear: both;
 }
